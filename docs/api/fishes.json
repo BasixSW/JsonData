@@ -18,42 +18,6 @@
         "price": 25
     },
     {
-        "id": 201,
-        "name": "Barbeel 201",
-        "latinName": "Barbus barbus",
-        "img": "Barbel.jpg",
-        "description": "De barbeel (Barbus barbus) is een gestroomlijnde karperachtige vis van de middenlopen van rivieren, de zogenaamde barbeelzone.De barbeel is een bijna rolronde, langgerekte vis met puntige kop, een onderstandige bek, twee grote baarddraden in de mondhoek en twee baarddraden aan de punt van de bovenkaak. De buik en de onderkant van de snuit zijn wat afgeplat.",
-        "environment": "freshwater",
-        "price": 25
-    },
-    {
-        "id": 202,
-        "name": "Barbeel 202",
-        "latinName": "Barbus barbus",
-        "img": "Barbel.jpg",
-        "description": "De barbeel (Barbus barbus) is een gestroomlijnde karperachtige vis van de middenlopen van rivieren, de zogenaamde barbeelzone.De barbeel is een bijna rolronde, langgerekte vis met puntige kop, een onderstandige bek, twee grote baarddraden in de mondhoek en twee baarddraden aan de punt van de bovenkaak. De buik en de onderkant van de snuit zijn wat afgeplat.",
-        "environment": "freshwater",
-        "price": 25
-    },
-    {
-        "id": 203,
-        "name": "Barbeel 203",
-        "latinName": "Barbus barbus",
-        "img": "Barbel.jpg",
-        "description": "De barbeel (Barbus barbus) is een gestroomlijnde karperachtige vis van de middenlopen van rivieren, de zogenaamde barbeelzone.De barbeel is een bijna rolronde, langgerekte vis met puntige kop, een onderstandige bek, twee grote baarddraden in de mondhoek en twee baarddraden aan de punt van de bovenkaak. De buik en de onderkant van de snuit zijn wat afgeplat.",
-        "environment": "freshwater",
-        "price": 25
-    },
-    {
-        "id": 204,
-        "name": "Barbeel 204",
-        "latinName": "Barbus barbus",
-        "img": "Barbel.jpg",
-        "description": "De barbeel (Barbus barbus) is een gestroomlijnde karperachtige vis van de middenlopen van rivieren, de zogenaamde barbeelzone.De barbeel is een bijna rolronde, langgerekte vis met puntige kop, een onderstandige bek, twee grote baarddraden in de mondhoek en twee baarddraden aan de punt van de bovenkaak. De buik en de onderkant van de snuit zijn wat afgeplat.",
-        "environment": "freshwater",
-        "price": 25
-    },
-    {
         "id": 3,
         "name": "Bronforel",
         "latinName": "Salvelinus fontinalis",
