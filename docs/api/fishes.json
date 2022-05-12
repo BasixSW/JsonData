@@ -1,5 +1,4 @@
-{
-        {
+[{
         "id": 1,
         "name": "Alver",
         "latinName": "Alburnus alburnus",
@@ -201,5 +200,4 @@
         "environment": "saltwater",
         "price": 62
     }
-
-}
+]
